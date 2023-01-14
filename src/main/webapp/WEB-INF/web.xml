@@ -4,13 +4,5 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
-  
-  <servlet>
-    <servlet-name>myServlet</servlet-name>
-    <servlet-class>web.MyServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>myServlet</servlet-name>
-    <url-pattern>/coco</url-pattern>
-  </servlet-mapping>
+
 </web-app>
